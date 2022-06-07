@@ -1,0 +1,5 @@
+db.sqlite3
+TokenAuthentication/__pycache__
+env
+api/__pycache__
+api/migrations/__pycache__
